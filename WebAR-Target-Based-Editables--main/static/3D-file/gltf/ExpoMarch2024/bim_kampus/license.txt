@@ -1,0 +1,11 @@
+Model Information:
+* title:	BIM Kampus
+* source:	https://sketchfab.com/3d-models/bim-kampus-f117ebf2d351487fa4d438ed732ede18
+* author:	bimkampus (https://sketchfab.com/bimkampus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BIM Kampus" (https://sketchfab.com/3d-models/bim-kampus-f117ebf2d351487fa4d438ed732ede18) by bimkampus (https://sketchfab.com/bimkampus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

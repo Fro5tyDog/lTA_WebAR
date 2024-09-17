@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sussex Substation - Model - 2020-10-13
+* source:	https://sketchfab.com/3d-models/sussex-substation-model-2020-10-13-c2b9bc892734418ab86761a8ec72794e
+* author:	nicolaspapini (https://sketchfab.com/nicolaspapini)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sussex Substation - Model - 2020-10-13" (https://sketchfab.com/3d-models/sussex-substation-model-2020-10-13-c2b9bc892734418ab86761a8ec72794e) by nicolaspapini (https://sketchfab.com/nicolaspapini) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

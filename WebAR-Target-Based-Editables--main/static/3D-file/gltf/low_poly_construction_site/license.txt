@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Construction Site
+* source:	https://sketchfab.com/3d-models/low-poly-construction-site-e246d9420f0e4640bfd1fa1d0f4b3e75
+* author:	Batton (https://sketchfab.com/batton)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Construction Site" (https://sketchfab.com/3d-models/low-poly-construction-site-e246d9420f0e4640bfd1fa1d0f4b3e75) by Batton (https://sketchfab.com/batton) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

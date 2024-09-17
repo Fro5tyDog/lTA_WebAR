@@ -1,0 +1,11 @@
+Model Information:
+* title:	Construction Site
+* source:	https://sketchfab.com/3d-models/construction-site-58e7ee625374483aa5e413ffe3d08444
+* author:	FreddKrueger (https://sketchfab.com/Andrei.K)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Construction Site" (https://sketchfab.com/3d-models/construction-site-58e7ee625374483aa5e413ffe3d08444) by FreddKrueger (https://sketchfab.com/Andrei.K) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
