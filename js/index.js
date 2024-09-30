@@ -10,11 +10,11 @@ document.getElementById('theme-toggle').addEventListener('click', function() {
     const themeToggle = document.getElementById('theme-toggle');
     if (document.body.classList.contains('dark')) {
         themeToggle.style.backgroundColor = '#3F3F3F';  // Dark color for light mode
-        themeIcon.src = '/assets/images/UI/light-mode.png';  // Switch to light mode icon
+        themeIcon.src = 'assets/images/UI/light-mode.png';  // Switch to light mode icon
         themeIcon.alt = 'Light Mode';  // Update alt text
     } else {
         themeToggle.style.backgroundColor = '#3F3F3F';  // Light color for dark mode
-        themeIcon.src = '/assets/images/UI/dark-mode.png';  // Switch back to dark mode icon
+        themeIcon.src = 'assets/images/UI/dark-mode.png';  // Switch back to dark mode icon
         themeIcon.alt = 'Dark Mode';  // Update alt text
     }
 });
